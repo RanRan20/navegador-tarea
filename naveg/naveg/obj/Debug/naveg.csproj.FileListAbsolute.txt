@@ -1,0 +1,10 @@
+C:\Users\ranxl\Desktop\c# projects\calculadora\naveg\naveg\bin\Debug\naveg.exe.config
+C:\Users\ranxl\Desktop\c# projects\calculadora\naveg\naveg\bin\Debug\naveg.exe
+C:\Users\ranxl\Desktop\c# projects\calculadora\naveg\naveg\bin\Debug\naveg.pdb
+C:\Users\ranxl\Desktop\c# projects\calculadora\naveg\naveg\obj\Debug\naveg.csproj.AssemblyReference.cache
+C:\Users\ranxl\Desktop\c# projects\calculadora\naveg\naveg\obj\Debug\naveg.Form1.resources
+C:\Users\ranxl\Desktop\c# projects\calculadora\naveg\naveg\obj\Debug\naveg.Properties.Resources.resources
+C:\Users\ranxl\Desktop\c# projects\calculadora\naveg\naveg\obj\Debug\naveg.csproj.GenerateResource.cache
+C:\Users\ranxl\Desktop\c# projects\calculadora\naveg\naveg\obj\Debug\naveg.csproj.CoreCompileInputs.cache
+C:\Users\ranxl\Desktop\c# projects\calculadora\naveg\naveg\obj\Debug\naveg.exe
+C:\Users\ranxl\Desktop\c# projects\calculadora\naveg\naveg\obj\Debug\naveg.pdb
